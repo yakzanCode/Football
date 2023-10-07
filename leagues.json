@@ -1,0 +1,189 @@
+[
+    {
+      "name": "Champions League",
+      "img": "https://yakzancode.github.io/images/images/champions-league.jpg",
+      "icon": "https://yakzancode.github.io/images/images/Champions_League_logo.png",
+      "country": "Europe",
+      "countryFlag": "https://yakzancode.github.io/images/images/flag127.png",
+      "clubs": [
+        "Real Madrid",
+        "Manchester City",
+        "Bayern Munich",
+        "Paris Saint-Germain",
+        "Liverpool",
+        "Barcelona",
+        "Chelsea",
+        "Manchester United",
+        "Juventus",
+        "Borussia Dortmund",
+        "Atletico Madrid",
+        "Inter Milan",
+        "AC Milan"
+      ]
+    },
+    {
+      "name": "Premier League",
+      "img": "https://yakzancode.github.io/images/images/premier-league.jpg",
+      "icon": "https://yakzancode.github.io/images/images/Premier_League_logo.png",
+      "country": "England",
+      "countryFlag": "https://yakzancode.github.io/images/images/flag105.png",
+      "clubs": [
+        "Manchester United",
+        "Manchester City",
+        "Liverpool",
+        "Chelsea",
+        "Arsenal",
+        "Tottenham Hotspur",
+        "Leicester City",
+        "West Ham United",
+        "Aston Villa",
+        "Everton",
+        "Leeds United",
+        "Newcastle United",
+        "Wolverhampton Wanderers"
+      ]
+    },
+    {
+      "name": "Serie A",
+      "img": "https://yakzancode.github.io/images/images/serie-a.jpg",
+      "icon": "https://yakzancode.github.io/images/images/SerieA_logo.png",
+      "country": "Italy",
+      "countryFlag": "https://yakzancode.github.io/images/images/flag84.png",
+      "clubs": [
+        "AC Milan",
+        "Inter Milan",
+        "Juventus",
+        "AS Roma",
+        "Lazio",
+        "Napoli",
+        "Fiorentina",
+        "Atalanta",
+        "Sassuolo",
+        "Bologna",
+        "Sampdoria",
+        "Udinese",
+        "Cagliari"
+      ]
+    },
+    {
+      "name": "Bundesliga",
+      "img": "https://yakzancode.github.io/images/images/bundesliga.jpg",
+      "icon": "https://yakzancode.github.io/images/images/Bundesliga_logo.png",
+      "country": "Germany",
+      "countryFlag": "https://yakzancode.github.io/images/images/flag97.png",
+      "clubs": [
+        "1. FC Heidenheim",
+        "1. FC Köln",
+        "1. FSV Mainz 05",
+        "FC Augsburg",
+        "FC Bayern",
+        "FC Lorient",
+        "FC Metz",
+        "FC Nantes",
+        "FC Porto",
+        "Werder Bremen",
+        "VfB Stuttgart",
+        "VfL Bochum",
+        "VfL Wolfsburg"
+      ]
+    },
+    {
+      "name": "Ligue 1",
+      "img": "https://yakzancode.github.io/images/images/ligue-1.png",
+      "icon": "https://yakzancode.github.io/images/images/ligue-1.png",
+      "country": "France",
+      "countryFlag": "https://yakzancode.github.io/images/images/flag67.png",
+      "clubs": [
+        "Paris Saint-Germain (PSG)",
+        "Olympique de Marseille (OM)",
+        "AS Monaco",
+        "Lyon (OL)",
+        "LOSC Lille",
+        "Stade Rennais FC",
+        "RC Lens"
+      ]
+    },
+    {
+      "name": "La Liga",
+      "img": "https://yakzancode.github.io/images/images/laliga.jpg",
+      "icon": "https://yakzancode.github.io/images/images/LaLiga.png",
+      "country": "Spain",
+      "countryFlag": "https://yakzancode.github.io/images/images/flag28.png",
+      "clubs": [
+        "Real Madrid",
+        "FC Barcelona",
+        "Atlético de Madrid",
+        "Sevilla FC",
+        "Real Sociedad",
+        "Valencia CF",
+        "Real Betis"
+      ]
+    },
+    {
+      "name": "Serie B",
+      "img": "https://yakzancode.github.io/images/images/serie-b.png",
+      "icon": "https://yakzancode.github.io/images/images/serie-b.png",
+      "country": "Italy",
+      "countryFlag": "https://yakzancode.github.io/images/images/flag84.png",
+      "clubs": [
+        "AC Monza",
+        "Lecce",
+        "Frosinone",
+        "Salernitana",
+        "Udinese",
+        "Sassuolo",
+        "Empoli",
+        "Hellas Verona",
+        "Genoa",
+        "AS Roma"
+      ]
+    },
+    {
+      "name": "EFL Championship",
+      "img": "https://yakzancode.github.io/images/images/efl-championship.png",
+      "icon": "https://yakzancode.github.io/images/images/efl-championship.png",
+      "country": "England",
+      "countryFlag": "https://yakzancode.github.io/images/images/flag104.png",
+      "clubs": [
+        "AFC Bournemouth",
+        "Fulham",
+        "Nottingham Forest",
+        "Sheffield United",
+        "West Bromwich Albion",
+        "Stoke City",
+        "Luton Town"
+      ]
+    },
+    {
+      "name": "Swiss Super League",
+      "img": "https://yakzancode.github.io/images/images/swiss-super-league.png",
+      "icon": "https://yakzancode.github.io/images/images/swiss-super-league.png",
+      "country": "Switzerland",
+      "countryFlag": "https://yakzancode.github.io/images/images/flag64.png",
+      "clubs": [
+        "FC Basel",
+        "Young Boys",
+        "FC Zürich",
+        "FC Luzern",
+        "Servette FC",
+        "FC Lausanne-Sport"
+      ]
+    },
+    {
+      "name": "Scottish Premiership",
+      "img": "https://yakzancode.github.io/images/images/scottish-premiership.png",
+      "icon": "https://yakzancode.github.io/images/images/scottish-premiership.png",
+      "country": "Scotland",
+      "countryFlag": "https://yakzancode.github.io/images/images/flag68.png",
+      "clubs": [
+        "Rangers FC",
+        "Celtic FC",
+        "Heart of Midlothian FC",
+        "Aberdeen FC",
+        "Hibernian FC",
+        "Motherwell FC",
+        "and more..."
+      ]
+    }
+  ]
+  
