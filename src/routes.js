@@ -11,6 +11,7 @@ import {
     getTrophies,
     getTrophyByName,
     getLeagues,
+    getLeagueByName,
     getClubs,
     findClubByName,
     findClubsByLeague,
@@ -33,6 +34,7 @@ router.delete('/players/:name', removePlayer);
 router.get('/trophies', getTrophies);
 router.get('/trophy', getTrophyByName);
 router.get('/leagues', getLeagues);
+router.get('/leagues/:leagueName', getLeagueByName);
 router.get('/clubs', getClubs);
 router.get('/clubs/:clubName', findClubByName);
 router.get('/clubs/league/:leagueName', findClubsByLeague);
